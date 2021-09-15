@@ -1,0 +1,9 @@
+{
+    "domain": "great_britain_carbon_intensity",
+    "name": "Carbon Intensity",
+    "documentation": "https://github.com/AmiSMB/home-assistant-carbon-intensity/README.md",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "iot_class": "cloud_polling"
+}

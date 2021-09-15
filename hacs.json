@@ -1,10 +1,11 @@
 {
     "name": "HA UK Carbon Intensity",
-    "documentation": "https://github.com/crgreenwood/home-assistant-carbon-intensity",
-    "content_in_root": true,
+    "documentation": "https://github.com/AmiSMB/home-assistant-carbon-intensity",
+    "hacs": "1.6.0",
     "render_readme": true,
     "domains": [
         "binary_sensor",
         "sensor"
-    ]
+    ],
+    "homeassistant": "0.118.0"
 }
