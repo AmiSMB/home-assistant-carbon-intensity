@@ -1,7 +1,7 @@
 {
     "name": "HA UK Carbon Intensity",
     "documentation": "https://github.com/AmiSMB/home-assistant-carbon-intensity",
-    "hacs": "1.6.0",
+    "hacs": "1.15.2",
     "render_readme": true,
     "domains": [
         "binary_sensor",
